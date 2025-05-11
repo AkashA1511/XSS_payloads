@@ -1,2 +1,2 @@
-# XSS_payloads
+payloads
 
